@@ -1,0 +1,16 @@
+body{
+    width: 20%;
+    margin: 50px auto;
+    background-color: grey;
+  }
+
+#header {
+    display: flex;
+    justify-content: center;
+  } 
+
+h3 {
+    margin:5px;
+    color: teal;
+    font-size: 22px;
+}
